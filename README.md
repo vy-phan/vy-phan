@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently  students industry Data, Website<br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100054517509400) 
 
