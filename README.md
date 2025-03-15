@@ -1,3 +1,6 @@
+## 🚀 About Me
+I'm an IT student at ITC , passionate about web development, AI, and data science. I enjoy building modern web applications and exploring AI-related technologies. Currently, I'm enhancing my skills in full-stack development, working with MERN stack and Node.js. Besides coding, I'm also interested in machine learning and how AI can be integrated into various applications.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100054517509400) 
 
